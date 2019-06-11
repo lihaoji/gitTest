@@ -5,6 +5,7 @@ public class gitTest {
 		System.out.println("lhj");
 		System.out.println("lihaoji1994");
 		System.out.println("jsjsjsj");
+		System.out.println("222222222222");
 	}
 
 }
